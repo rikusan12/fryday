@@ -1,1 +1,3 @@
 # fryday
+
+onCreate
